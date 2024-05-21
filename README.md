@@ -7,4 +7,4 @@
    - Basic HTML Tags and Elements
    - Creating a Simple Webpage
      
-## WebPage Url: eventhtmltutorial.netlify.app        
+## WebPage Url:  https://eventhtmltutorial.netlify.app        
